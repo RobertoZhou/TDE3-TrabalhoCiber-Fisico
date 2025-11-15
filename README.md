@@ -3,7 +3,7 @@
 <h4>Roberto Zhou</h4>
 <h4>Matheus Bortoli Da Silva</h4>
 
-<h2>VÍDEO: </h2>
+<h2>VÍDEO: </h2> https://youtu.be/fVLuiZGoMTc
 
 ## Parte 1 — Filósofos
 <p>O Jantar dos Filósofos modela cinco filósofos sentados em uma mesa circular, alternando entre pensar e
