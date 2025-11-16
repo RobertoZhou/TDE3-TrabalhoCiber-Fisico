@@ -30,6 +30,8 @@ aquisição e liberação de recursos e como a justiça/progresso é preservada.
 depois o de maior índice, removendo a espera circular ao impor uma ordem parcial fixa sobre os
 recursos.[3][1]</p>
 
+<img width="625" height="513" alt="image" src="https://github.com/user-attachments/assets/d5061100-ba9c-439e-a4c3-4d7e70d8ceb4" /><br>
+
 ```
 Dados:
  N = 5 filósofos
